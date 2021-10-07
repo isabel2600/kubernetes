@@ -33,4 +33,6 @@ $kubectl get services test-dockerdemo
 test-dockerdemo   NodePort   10.43.232.211   <none>        8080:32266/TCP   2d18h
 
 # Put this ip address in your brownser and you will see the 5 containers running
+ 
+![image](https://user-images.githubusercontent.com/68034656/136408169-8678d581-b151-4240-863f-5b030aac14e5.png)
 
